@@ -7,6 +7,7 @@ Set up a minimal 3D web animation using Three.js. The scene should visualize a m
 ## Latest requirements (updated)
 
 1. A Three.js project is set up and runnable.
+	- Build output uses relative asset paths so deployment works on GitHub Pages.
 
 2. A centered globe animation is rendered in a full-screen container.
 	- The globe has a slow constant automatic rotation.
